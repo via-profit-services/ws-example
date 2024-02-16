@@ -5,8 +5,8 @@
 1. Clone repository and install dependencies
 
 ```bash
-git clone xxxx
-cd xxxx
+git clone https://github.com/via-profit-services/ws-example.git
+cd ws-example
 npm install
 ```
 
